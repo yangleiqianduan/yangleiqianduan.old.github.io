@@ -1,0 +1,1 @@
+cp -f ./dist/index.html ./index.html

@@ -1,5 +1,6 @@
 var common = require('./config.common')
 const fs = require('fs')
+const path = require('path')
 
 module.exports = function (webpackConfig, redSkull, webpackPlugins) {
 
