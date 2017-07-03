@@ -20,7 +20,6 @@ export default class Index extends Page {
 		      				{article.title}
 		      				</a>
 		      			</li>
-
 		      	)
 		      }
       	</ul>
