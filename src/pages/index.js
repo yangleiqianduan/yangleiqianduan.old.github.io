@@ -10,7 +10,7 @@ export default class Index extends Page {
   render () {
     return (
       <div>
-        <a href="/list">列表页面</a>
+        <a href="#list">列表页面</a>
       </div>
     )
   }

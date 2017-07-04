@@ -12,7 +12,7 @@ export default class Index extends Page {
 
   render () {
   	const filePath = this.props.params.path
-  	const path = `/article/${filePath}.md`
+  	const path = `article/${filePath}.md`
     return (
       <div>
       	<ArticleRender articlePath={path}/>

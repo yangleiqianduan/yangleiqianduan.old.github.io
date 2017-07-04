@@ -6,7 +6,7 @@
 import zola from 'zola'
 
 export default zola.router({
-  history: 'browserHistory',
+  history: 'hashHistory',
   routes: [
     // ==== router start ==== //
     { path: '/', component: System.import('pages/index') },

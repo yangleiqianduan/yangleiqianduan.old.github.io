@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "a react application powerd by zola",
   "scripts": {
-    "start": "ENVIRONMENT=development redskull start --dashboard false",
+    "start": "ENVIRONMENT=development redskull start",
     "test": "ENVIRONMENT=testing redskull build",
-    "build": "ENVIRONMENT=production redskull build --publicPath=http://yangleiqianduan.github.io ./dist"
+    "build": "ENVIRONMENT=production redskull build --publicPath http://yangleiqianduan.github.io/dist/ && cp -f ./dist/index.html ./index.html"
   },
   "license": "ISC",
   "dependencies": {
@@ -18,7 +18,6 @@
     "entry": "index.js",
     "dist": "./dist",
     "openBrowser": false,
-    "deps": "./",
     "favico": "./src/favicon.ico"
   }
 }
