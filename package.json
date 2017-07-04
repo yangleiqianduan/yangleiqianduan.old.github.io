@@ -5,7 +5,7 @@
   "scripts": {
     "start": "ENVIRONMENT=development redskull start",
     "test": "ENVIRONMENT=testing redskull build",
-    "build": "ENVIRONMENT=production redskull build --publicPath http://yangleiqianduan.github.io/dist/ && cp -f ./dist/index.html ./index.html"
+    "build": "ENVIRONMENT=production redskull build --publicPath https://yangleiqianduan.github.io/dist/ && cp -f ./dist/index.html ./index.html"
   },
   "license": "ISC",
   "dependencies": {
