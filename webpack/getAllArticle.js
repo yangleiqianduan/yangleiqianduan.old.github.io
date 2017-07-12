@@ -1,3 +1,7 @@
+/**
+ * 获取所有markdown文件的数据
+ *
+ */
 const fs = require('fs')
 const path = require('path')
 
@@ -51,7 +55,8 @@ const getAllMarkdownFile = function(filePath){
           return true
         }
         return false
-      }) || `:${defaultDate.toLocaleDateString()} ${defaultDate.toLocaleTimeString()}`
+      }) || ``
+    // }) || `:${defaultDate.toLocaleDateString()} ${defaultDate.toLocaleTimeString()}`
 
     const createTimeArr = createTimeStr.split(':')
     createTimeArr.shift()
@@ -86,7 +91,5 @@ module.exports = function(redskull, env) {
    }
    ]
    */
-  return {
-    MY_ARTICLE_DATA:JSON.stringify(list)
-  }
+  return list
 }
