@@ -1,5 +1,5 @@
 {
-  "name": "yangleiqianduan.github.io",
+  "name": "yanglei",
   "version": "0.0.1",
   "description": "a react application powerd by zola",
   "scripts": {
@@ -21,7 +21,6 @@
     "entry": "index.js",
     "dist": "./dist",
     "openBrowser": false,
-    "title": "杨雷大哥哥",
     "favico": "./src/favicon.ico"
   },
   "devDependencies": {
