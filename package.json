@@ -21,6 +21,7 @@
     "entry": "index.js",
     "dist": "./dist",
     "openBrowser": false,
+    "title": "杨雷大哥哥",
     "favico": "./src/favicon.ico"
   },
   "devDependencies": {

@@ -20,6 +20,7 @@ export default class Index extends Page {
             </div>
             <div className="meImg"></div>
             <div className="time">入职链家网第<span>{moment().diff(moment('2017-3-15'), 'days')}</span>天</div>
+            <a className="git" href="https://github.com/yangleiqianduan/">github</a>
           </div>
         </div>
       </div>
