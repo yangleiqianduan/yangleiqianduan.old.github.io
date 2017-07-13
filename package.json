@@ -21,7 +21,7 @@
     "entry": "index.js",
     "dist": "./dist",
     "openBrowser": false,
-    "favico": "./src/icon.png"
+    "favico": "./src/favicon.ico"
   },
   "devDependencies": {
     "chokidar": "^1.7.0"
