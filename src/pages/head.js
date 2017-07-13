@@ -10,6 +10,9 @@ export default class Head extends Page {
     }, {
       title: '最近浏览',
       url: `#article/${localStorage.getItem('index') || 0}`
+    }, {
+      title: '简介',
+      url: '#about'
     }]
   }
   render () {
@@ -22,7 +25,7 @@ export default class Head extends Page {
         <nav className="nav">
           {
             this.state.link.map((item,index) =>
-              <div key={index} style={{left: `${+(index == 1) * 3}0px`}} className={index == this.props.index ? 'active' : ''}>
+              <div key={index} style={{left: `${index == 1 ? 30 : index == 3 ? - 78: 0}px`, top: `${index == 3 ? -15: 0}px`}} className={index == this.props.index ? 'active' : ''}>
               <a href={item.url}>{item.title}</a>
             </div>)
           }

@@ -23,8 +23,6 @@ export default class Index extends Page {
     <div className="root">
       <Head index={0}/>
       <div className="content">
-
-        <div>{this.state.i}</div>
         <div className="article">
           {
             this.state.i == this.props.params.path ?
@@ -36,12 +34,12 @@ export default class Index extends Page {
           this.setState({i: this.state.i == 0 ? this.state.last : this.state.i - 1})
           localStorage.setItem('index', this.state.i == 0 ? this.state.last : this.state.i - 1)
         }}
-           href={`#article/${this.state.i}`}></a>
+           href={`#article/${this.state.i}`}>上一篇</a>
         <a className="next" onClick={() => {
           this.setState({i: this.state.i == this.state.last ? 0 : this.state.i + 1})
           localStorage.setItem('index', this.state.i == this.state.last ? 0 : this.state.i + 1)
         }}
-           href={`#article/${this.state.i}`}></a>
+           href={`#article/${this.state.i}`}>下一篇</a>
       </div>
       <Foot/>
     </div>

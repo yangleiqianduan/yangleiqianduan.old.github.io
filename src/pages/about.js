@@ -7,23 +7,22 @@
 import { React, Page } from 'zola'
 import Head from './head.js'
 import Foot from './foot.js'
-import '../styles/index.styl'
+import '../styles/about.styl'
 import moment from 'moment'
-const startTime = 1489543200
 export default class Index extends Page {
   render() {
     return (
       <div className="root">
         <Head index={0}/>
         <div className="content">
-          <div className="index">
-            <div>GOOD GOOD STUDY, </div>
-            <div>DAY DAY UP</div>
+          <div className="user">
+            <div className="title">
+              <div className="titleInfo">简介</div>
+            </div>
+            <div className="meImg"></div>
+            <div className="time">入职链家网第<span>{moment().diff(moment('2017-3-15'), 'days')}</span>天</div>
+          </div>
 
-          </div>
-          <div className="welcome">
-            杨雷 ♥︎ 小小前端
-          </div>
 
         </div>
         <Foot/>
