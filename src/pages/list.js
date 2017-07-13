@@ -4,39 +4,47 @@
  *  created at: Tue Jun 27 2017 18:27:29 GMT+0800 (CST)
  */
 import articles from 'data/article'
-const articleList = MY_ARTICLE_DATA
-import AsyncComponent from 'modules/AsyncComponent'
 import { React, Page } from 'zola'
-
+import Head from './head.js'
+import Foot from './foot.js'
+import '../styles/list.styl'
+let articles1 = articles.filter((i, index) => 2*index <= articles.length)
+let articles2 = articles.filter((i, index) => 2*index > articles.length)
 export default class Index extends Page {
   render () {
     return (
-      <div>
-      	<ul>
-      		{
-		      	articleList.map((article,index) =>
-		      			<li key={index}>
-		      				<a href={`#article${article.path}`}>
-		      				{article.title}
-		      				</a>
-		      			</li>
-		      	)
-		      }
-      	</ul>
-        <div style={{width: '100px', height: '100px', background: 'red'}}></div>
-        <ul>
-          {
-            articles.map((article,index) =>
-              <li key={index}>
-                <a href={`#article${article.path}`}>
-                  {article.title}
-                </a>
-              </li>
-            )
-          }
-        </ul>
-        <AsyncComponent comFn={articles[0].component()}/>
+    <div className="root">
+      <Head index={0}/>
+      <div className="content">
+        <div className="list">
+          <ul>
+            {
+              articles1.map((article,index) =>
+                  <li key={index} style={{background: `rgba(${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)}, 0.3)`}}>
+                    <a href={`#article/${index}`}>
+                      {article.title}
+                    </a>
+
+                  </li>
+              )
+            }
+          </ul>
+          <ul>
+            {
+              articles2.map((article,index) =>
+                <li key={index} style={{background: `rgba(${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)}, 0.3)`}}>
+                  <a href={`#article/${index}`}>
+                    {article.title}
+                  </a>
+
+                </li>
+              )
+            }
+          </ul>
+        </div>
       </div>
+      <Foot/>
+    </div>
     )
   }
 }
