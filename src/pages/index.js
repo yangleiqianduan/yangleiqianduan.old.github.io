@@ -8,8 +8,6 @@ import { React, Page } from 'zola'
 import Head from './head.js'
 import Foot from './foot.js'
 import '../styles/index.styl'
-import moment from 'moment'
-const startTime = 1489543200
 export default class Index extends Page {
   render() {
     return (

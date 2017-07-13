@@ -6,7 +6,6 @@
 
 import { React, Page } from 'zola'
 import Head from './head.js'
-import Foot from './foot.js'
 import '../styles/about.styl'
 import moment from 'moment'
 export default class Index extends Page {
@@ -22,10 +21,7 @@ export default class Index extends Page {
             <div className="meImg"></div>
             <div className="time">入职链家网第<span>{moment().diff(moment('2017-3-15'), 'days')}</span>天</div>
           </div>
-
-
         </div>
-        <Foot/>
       </div>
     )
   }

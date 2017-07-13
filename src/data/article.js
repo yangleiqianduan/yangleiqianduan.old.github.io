@@ -29,6 +29,10 @@
 
 	},
 	{
+		"title":"编辑阅读器","path":"/a/编辑阅读器","createTime":"","component":()=>System.import('article/a/编辑阅读器.md')
+
+	},
+	{
 		"title":"PWA library","path":"/PWA library","createTime":"","component":()=>System.import('article/PWA library.md')
 
 	},
@@ -45,6 +49,10 @@
 
 	},
 	{
+		"title":"编辑阅读器","path":"/b/编辑阅读器","createTime":"","component":()=>System.import('article/b/编辑阅读器.md')
+
+	},
+	{
 		"title":"element of javascript style","path":"/element of javascript style","createTime":"","component":()=>System.import('article/element of javascript style.md')
 
 	},
@@ -54,6 +62,10 @@
 	},
 	{
 		"title":"translate","path":"/yes-react-is-taking-over-front-end-development-the-question-is-why/translate","createTime":"","component":()=>System.import('article/yes-react-is-taking-over-front-end-development-the-question-is-why/translate.md')
+
+	},
+	{
+		"title":"编辑阅读器","path":"/编辑阅读器","createTime":"","component":()=>System.import('article/编辑阅读器.md')
 
 	}]
 	
