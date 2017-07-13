@@ -115,7 +115,7 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1499938291000" expanded="true" signature="660:685" ph="..." />
+                <marker date="1499939361000" expanded="true" signature="675:700" ph="..." />
               </folding>
             </state>
           </provider>
@@ -469,7 +469,7 @@
       <workItem from="1499932334981" duration="3737000" />
       <workItem from="1499937293134" duration="240000" />
       <workItem from="1499938051976" duration="125000" />
-      <workItem from="1499938260475" duration="707000" />
+      <workItem from="1499938260475" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1499092087227</created>
@@ -538,7 +538,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65945000" />
+    <option name="totallyTimeSpent" value="66018000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -921,7 +921,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1499938291000" expanded="true" signature="660:685" ph="..." />
+            <marker date="1499939361000" expanded="true" signature="675:700" ph="..." />
           </folding>
         </state>
       </provider>
