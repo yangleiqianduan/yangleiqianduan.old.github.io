@@ -19,7 +19,7 @@
     "port": 6003,
     "src": "./src",
     "entry": "index.js",
-    "dist": "dist",
+    "dist": "./dist",
     "openBrowser": false,
     "favico": "./src/favicon.ico"
   },
