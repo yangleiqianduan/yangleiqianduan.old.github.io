@@ -2,22 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f561e5-e863-463e-ac49-7eccfa8548ca" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/DrawableAnimation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/Fragment.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/Intent.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/Java 面向对象多态性.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/Java.io： IO与文件.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/a/DrawableAnimation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/a/Fragment.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/a/Intent.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/a/Java 面向对象多态性.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/a/Java.io： IO与文件.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/a/java 虚拟机体系结构.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/java 虚拟机体系结构.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/b/PWA library.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/b/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/b/element of javascript style.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/b/javascriptByzhiqiang.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/b/编辑阅读器.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/cdnResource.ini" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/cdnResource.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/bottom.d5edbcf9.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/me.f60d5268.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/mine.985b0b0f.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/top.cdbe3775.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.e7641f08dc37e5b2ea66.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.e7641f08dc37e5b2ea66.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.5090e76d65ef4e5e2891.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.5090e76d65ef4e5e2891.css.map" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/favicon.ico" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/bottom.d5edbcf9.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/me.f60d5268.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/mine.985b0b0f.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/top.cdbe3775.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/0.f56698e5cae39f75c622.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/1.25e9e901dd67af5abb0a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/0.9132c69415d9c3ea3e53.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/1.ee667c32fc82c353b3eb.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/10.24c8c5fb811fde0faf16.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/11.e65fcbcffcdb4bc0cc90.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/12.22530126ef8e9f641c7f.js" afterPath="" />
@@ -28,7 +45,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/17.ced2ef2a28f12c6ac4b7.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/18.8b58e5b82d56a1e83b8f.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/19.01f75c4e2d04232165f0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/2.38c87e6b9b6cb59fdb0d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/2.61eb7e021bc0fc77c296.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/20.2e341cf1d59d12657266.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/21.83513353c663545e2e3f.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/3.0819521cf17437bc328f.js" afterPath="" />
@@ -38,13 +55,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/7.b88f375f92787a3a7370.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/8.88b2c3192f96dc6a6c51.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/9.c1654aac2686b73c4e8a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/index.e7641f08dc37e5b2ea66.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/index.5090e76d65ef4e5e2891.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/about.js" afterPath="$PROJECT_DIR$/src/pages/about.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/article.js" afterPath="$PROJECT_DIR$/src/pages/article.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/head.js" afterPath="$PROJECT_DIR$/src/pages/head.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/list.js" afterPath="$PROJECT_DIR$/src/pages/list.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/common.styl" afterPath="$PROJECT_DIR$/src/styles/common.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/article.js" afterPath="$PROJECT_DIR$/src/data/article.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -81,12 +94,57 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="common.styl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="common.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles/common.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="23">
+              <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawableAnimation.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/article/DrawableAnimation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fragment.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/article/Fragment.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawableAnimation.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/article/a/DrawableAnimation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -101,20 +159,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="list.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="276">
               <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="e#84#119#0" expanded="true" />
@@ -136,7 +184,7 @@
       <file leaf-file-name="head.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/head.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="644">
               <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
               <folding />
             </state>
@@ -161,28 +209,8 @@
             <state relative-caret-position="92">
               <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding>
-                <marker date="1499959577000" expanded="true" signature="658:682" ph="..." />
+                <marker date="1499994984000" expanded="true" signature="658:682" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles/about.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/index.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="34" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -293,8 +321,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="29" />
+    <option name="x" value="474" />
+    <option name="y" value="54" />
     <option name="width" value="1387" />
     <option name="height" value="797" />
   </component>
@@ -314,6 +342,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -395,9 +424,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="a" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,19 +471,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/article/a" />
+      <recent name="$PROJECT_DIR$/article" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/b" />
+      <recent name="$PROJECT_DIR$/a" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/article" />
       <recent name="$PROJECT_DIR$/src/styles" />
       <recent name="$PROJECT_DIR$/src/" />
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/webpack" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/pages" />
-      <recent name="$PROJECT_DIR$/b" />
-      <recent name="$PROJECT_DIR$/a" />
-      <recent name="$PROJECT_DIR$/article" />
-      <recent name="$PROJECT_DIR$/src/styles" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -552,7 +612,8 @@
       <workItem from="1499938051976" duration="125000" />
       <workItem from="1499938260475" duration="16069000" />
       <workItem from="1499957857965" duration="1545000" />
-      <workItem from="1499994332117" duration="614000" />
+      <workItem from="1499994332117" duration="1205000" />
+      <workItem from="1500000875761" duration="354000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1499092087227</created>
@@ -621,7 +682,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83466000" />
+    <option name="totallyTimeSpent" value="84411000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -633,7 +694,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="29" width="1387" height="797" extended-state="0" />
+    <frame x="474" y="54" width="1387" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26866764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -709,21 +771,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/modules/AsyncComponent/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/ArticleRender/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/common.js" />
     <entry file="file://$PROJECT_DIR$/src/styles/top.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -989,17 +1036,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2484">
           <caret line="108" column="17" lean-forward="false" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#85#119#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1039,14 +1075,14 @@
         <state relative-caret-position="92">
           <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
-            <marker date="1499959577000" expanded="true" signature="658:682" ph="..." />
+            <marker date="1499994984000" expanded="true" signature="658:682" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="276">
           <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
             <element signature="e#84#119#0" expanded="true" />
@@ -1074,7 +1110,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/head.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="644">
           <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
           <folding />
         </state>
@@ -1088,11 +1124,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#85#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/common.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        <state relative-caret-position="23">
+          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/DrawableAnimation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/Fragment.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/a/DrawableAnimation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
