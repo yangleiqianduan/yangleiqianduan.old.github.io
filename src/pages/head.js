@@ -26,7 +26,7 @@ export default class Head extends Page {
           {
             this.state.link.map((item,index) =>
               <div key={index} style={{left: `${index == 1 ? 30 : index == 3 ? - 78: 0}px`, top: `${index == 3 ? -15: 0}px`}} className={index == this.props.index ? 'active' : ''}>
-              <a href={item.url}>{item.title}</a>
+              <a href={item.url} >{item.title}</a>
             </div>)
           }
         </nav>

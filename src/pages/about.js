@@ -12,7 +12,7 @@ export default class Index extends Page {
   render() {
     return (
       <div className="root">
-        <Head index={0}/>
+        <Head index={3}/>
         <div className="content">
           <div className="user">
             <div className="title">

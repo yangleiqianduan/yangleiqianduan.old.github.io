@@ -14,7 +14,7 @@ export default class Index extends Page {
   render () {
     return (
     <div className="root">
-      <Head index={0}/>
+      <Head index={1}/>
       <div className="content">
         <div className="list">
           <ul>
