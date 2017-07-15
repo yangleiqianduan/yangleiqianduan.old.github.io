@@ -51,7 +51,7 @@ const getAllMarkdownFile = function(filePath){
 
     const defaultDate = new Date()
     const createTimeStr = content.split('\n').find(str =>{
-        if(str.indexOf('createTime') >=0){
+        if(str.indexOf('createTime_yl') >=0){
           return true
         }
         return false
@@ -63,8 +63,24 @@ const getAllMarkdownFile = function(filePath){
     const createTime = createTimeArr.join(":").trim()
     const fileName = path.basename(file,'.md')
     const filePath = file.replace(ARTICLE_PATH,'')
+
+    const categoriesStr = (content.split('\n').find(str =>{
+        if(str.indexOf('categories_yl') >=0){
+          return true
+        }
+        return false
+      }) || ":").split(':')[1].trim()
+
+    const tagStr = (content.split('\n').find(str =>{
+      if(str.indexOf('tags_yl') >=0){
+        return true
+      }
+      return false
+    }) || ":").split(':')[1]
     return {
       title:fileName,
+      categories: categoriesStr,
+      tags: tagStr,
       path:filePath.replace('.md',''),
       createTime
     }

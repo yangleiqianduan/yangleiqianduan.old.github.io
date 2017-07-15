@@ -1,3 +1,10 @@
+---
+title_yl: Java.io： IO与文件
+categories_yl: 文章
+tags_yl: 哈哈
+creatTime_yl: 2017-7-14
+---
+
 #`Java.io： IO与文件`
 1. java.io.File 类的使用
 2. IO流
@@ -52,7 +59,7 @@ File用来表示**文件对象**，或者**目录对象 **
         }
 ```
 ** 注意：createNewFile()不会创建目录，因此在目录不存在的情况下使用该方法创建文件，会抛出  java.io.IOException: No such file or directory**
-        
+
 ```java
  File exFile = new File("src/a/c/d/ex.txt");
         try {

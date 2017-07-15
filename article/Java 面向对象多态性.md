@@ -1,4 +1,9 @@
-#	Java 面向对象多态性
+---
+title_yl: Java 面向对象多态性
+categories_yl: Java
+tags_yl: JavaScript
+creatTime_yl: 2017-7-14
+---
 
 多态性的体现：
 

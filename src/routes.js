@@ -10,7 +10,7 @@ export default zola.router({
   routes: [
     // ==== router start ==== //
     { path: '/', component: System.import('pages/index') },
-    { path: 'list', component: System.import('pages/list') },
+    { path: 'list/:categories', component: System.import('pages/list') },
     { path: 'article/:path', component: System.import('pages/article') },
     { path: 'about', component: System.import('pages/about') },
 

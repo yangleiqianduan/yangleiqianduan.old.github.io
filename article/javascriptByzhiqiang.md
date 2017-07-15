@@ -1,9 +1,8 @@
 ---
-layout: post
-title: JavaScript基础1
-categories: [随笔]
-tags: []
-fullview: true
+title_yl: JavaScript基础1
+categories_yl: JavaScript
+tags_yl: JavaScript
+creatTime_yl: 2017-7-14
 ---
 
 本文主要讲述了JavaScript语言中基本知识和概念以及平时工作时遇到的一些问题。
@@ -33,10 +32,10 @@ fullview: true
   可以通过typeof来判断数据属于哪种基本数据类型，以下表达式的值都为true：
 
 ```javascript
-typeof undefined === 'undefined'  
+typeof undefined === 'undefined'
 typeof null === 'object' //  判断null时可以考虑使用===来判断而不是用typeof
 typeof true === 'boolean'
-typeof 123 === 'number' 
+typeof 123 === 'number'
 typeof '123' === 'string'
 ```
 
@@ -52,30 +51,30 @@ typeof '123' === 'string'
 ```
 15.7.4.5 Number.prototype.toFixed (fractionDigits)
 
-Return a String containing this Number value represented in decimal fixed-point notation with fractionDigits 
-digits after the decimal point. If fractionDigits is undefined, 0 is assumed. Specifically, perform the following 
-steps: 
-1. Let f be ToInteger(fractionDigits). (If fractionDigits is undefined, this step produces the value 0). 
-2. If f < 0 or f > 20, throw a RangeError exception. 
-3. Let x be this Number value. 
-4. If x is NaN, return the String "NaN". 
-5. Let s be the empty String. 
-6. If x < 0, then 
-  a. Let s be "-". 
-  b. Let x = –x. 
-7. If x >= 10^21, then 
-  a. Let m = ToString(x). 
+Return a String containing this Number value represented in decimal fixed-point notation with fractionDigits
+digits after the decimal point. If fractionDigits is undefined, 0 is assumed. Specifically, perform the following
+steps:
+1. Let f be ToInteger(fractionDigits). (If fractionDigits is undefined, this step produces the value 0).
+2. If f < 0 or f > 20, throw a RangeError exception.
+3. Let x be this Number value.
+4. If x is NaN, return the String "NaN".
+5. Let s be the empty String.
+6. If x < 0, then
+  a. Let s be "-".
+  b. Let x = –x.
+7. If x >= 10^21, then
+  a. Let m = ToString(x).
 8. Else, x < 10^21
-  a. Let n be an integer for which the exact mathematical value of n / 10^f – x is as close to zero as possible. If there are two such n, pick the larger n. 
-  b. If n = 0, let m be the String "0". Otherwise, let m be the String consisting of the digits of the decimal representation of n (in order, with no leading zeroes). 
-  c. If f != 0, then 
-    i. Let k be the number of characters in m. 
-    ii. If k ≤ f, then 
-      1. Let z be the String consisting of f+1–k occurrences of the character '0'. 
-      2. Let m be the concatenation of Strings z and m. 
-      3. Let k = f + 1. 
-    iii. Let a be the first k–f characters of m, and let b be the remaining f characters of m. 
-    iv. Let m be the concatenation of the three Strings a, ".", and b. 
+  a. Let n be an integer for which the exact mathematical value of n / 10^f – x is as close to zero as possible. If there are two such n, pick the larger n.
+  b. If n = 0, let m be the String "0". Otherwise, let m be the String consisting of the digits of the decimal representation of n (in order, with no leading zeroes).
+  c. If f != 0, then
+    i. Let k be the number of characters in m.
+    ii. If k ≤ f, then
+      1. Let z be the String consisting of f+1–k occurrences of the character '0'.
+      2. Let m be the concatenation of Strings z and m.
+      3. Let k = f + 1.
+    iii. Let a be the first k–f characters of m, and let b be the remaining f characters of m.
+    iv. Let m be the concatenation of the three Strings a, ".", and b.
 9. Return the concatenation of the Strings s and m.
 ```
 

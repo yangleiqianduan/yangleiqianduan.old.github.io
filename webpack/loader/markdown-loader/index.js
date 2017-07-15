@@ -1,28 +1,32 @@
 const showdown = require('showdown')
 // var babel = require("babel-core");
 module.exports = function(content,map) {
-	this.cacheable && this.cacheable()
 
+  this.cacheable && this.cacheable()
 
+  //1. 把---  ---之间的内容去掉
+  var start = content.indexOf("---");
+  var end = content.indexOf("---", start + 3) + 3;
+  content = content.slice(0, start) + content.slice(end)
 
 	/*
 	1. content -> html
 	2. html -> jsx
 	3. jsx -> js
 	 */
-	
+
 	const converter = new showdown.Converter()
 	converter.setOption('tables', true)
 	content   = converter.makeHtml(content)
-	  			
+
 
 	// this.value = content;
 	/*
 	import React,{Component} from 'react'
 	export default class extends Component{
-	
+
 		render(){
-	
+
 			return (
 				content
 			)
@@ -54,10 +58,10 @@ module.exports = function(content,map) {
 			}
 		}
 	`
-	
-	// 
+
+	//
 	// return JSON.stringify(content)
 	this.callback(null, content,map);
-	
+
 }
 module.exports.seperable = true;

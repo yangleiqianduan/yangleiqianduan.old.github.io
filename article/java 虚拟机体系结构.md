@@ -1,3 +1,11 @@
+---
+title_yl: java 虚拟机体系结构
+categories_yl: Java
+tags_yl: JavaScript
+creatTime_yl: 2017-7-14
+---
+
+
 #java 虚拟机体系结构
 参考引用：
 [理解jvm](http://www.tuicool.com/articles/jqyEjy)
@@ -67,8 +75,8 @@ java虚拟机体系结构分为：
 - 特点：与程序计数器一样，也是线程私有的，生命周期与线程相同。像方法区和堆一样，Java栈和帧在内存中也不是连续的
 Java栈出帧为单位保存线程的运行状态。 虚拟机只会直接对Java栈执行两种操作:以帧为单位的压栈或出栈。
 某个线程正在执行的方法被称为该线程的当前方法，当前方法使用的栈帧称为当前帧，当前方法所属的类称为当前类，当前类的常量池称为当前常量池。 在线程执行一个方法时，他会跟踪当前类和当前常量池。此外当虚拟机遇到栈内操作指令时，他对当前帧内数据执行操作。
-	
-    
+
+
 每个方法被执行的时候都会同时创建一个栈帧:
 
 1.	局部变量表（Local Variables）
@@ -117,7 +125,7 @@ istore_2   // pop int, store into local variable 2
 end
 ```
 	在这个字节码序列里，前两个指令iload_0和iload_1将存储在局部变量中索引为0和1的整数压入操作数栈中，其后iadd指令从操作数栈中弹出那两个整数相加，再将结果压入操作数栈。第四条指令istore_2则从操作数栈中弹出结果，并把它存储到局部变量区索引为2的位置。图5-10详细表述了这个过程中局部变量和操作数栈的状态变化，图中没有使用的局部变量区和操作数栈区域以空白表示。
-    
+
 ![](./pic/operadatastack.jpg)
 
 ## 方法区(Method Area)
@@ -149,7 +157,7 @@ end
 - 作用：用于存放编译期生成的各种字面量和符号引用，这部分内容将在类加载后存放到方法区的运行时常量池中。
 - 特点：
 		运行时常量池相对于Class文件常量池的另外一个重要特征是具备动态性，Java语言并不要求常量一定只能在编译期产生，也就是并非预置入Class文件中常量池的内容才能进入方法区运行时常量池，运行期间也可能将新的常量放入池中，这种特性被开发人员利用得比较多的便是String类的intern()方法。
-        
+
 - 异常：既然运行时常量池是方法区的一部分，自然会受到方法区内存的限制，当常量池无法再申请到内存时会抛出OutOfMemoryError异常。
 
 ### 类变量
@@ -168,7 +176,7 @@ end
 
 
 	字段(Field)和成员变量（Member Variable)是互换的，没有区别。
-["Member variables in a class—these are called fields."](http://docs.oracle.com/javase/tutorial/java/javaOO/variables.html) 
+["Member variables in a class—these are called fields."](http://docs.oracle.com/javase/tutorial/java/javaOO/variables.html)
 
 	属性(Property)，是指对象的属性，对于JavaBean来说，是getXXX方法定义的。
 ["property Characteristics of an object that users can set, such as the color of a window."](http://docs.oracle.com/javase/tutorial/information/glossary.html)

@@ -8,13 +8,23 @@ import { React, Page } from 'zola'
 import Head from './head.js'
 import Foot from './foot.js'
 import '../styles/list.styl'
-let articles1 = articles.filter((i, index) => 2*index <= articles.length)
-let articles2 = articles.filter((i, index) => 2*index > articles.length)
 export default class Index extends Page {
+  state = {
+    categories: this.props.params.categories || ''
+  }
+  componentWillReceiveProps(nextProps) {
+    if(nextProps.params.categories != this.state.categories) {
+      this.setState({categories: nextProps.params.categories || ''})
+    }
+  }
+
   render () {
+    let articleslist = this.state.categories != 0 ? articles.filter(i => i.categories == this.state.categories) : articles
+    let articles1 = articleslist.filter((i, index) => 2*index <= articleslist.length)
+    let articles2 = articleslist.filter((i, index) => 2*index > articleslist.length)
     return (
     <div className="root">
-      <Head index={1}/>
+      <Head index={1} categories={this.state.categories}/>
       <div className="content">
         <div className="list">
           <ul>
@@ -24,7 +34,11 @@ export default class Index extends Page {
                     <a href={`#article/${index}`}>
                       {article.title}
                     </a>
-
+                    <div className="tags">
+                      {
+                        article.tags.split(',').map((item, i) => <div className="tagsName" key={i}>{item}</div>)
+                      }
+                    </div>
                   </li>
               )
             }
