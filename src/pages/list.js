@@ -50,7 +50,11 @@ export default class Index extends Page {
                   <a href={`#article/${index}`}>
                     {article.title}
                   </a>
-
+                  <div className="tags">
+                    {
+                      article.tags.split(',').map((item, i) => <div className="tagsName" key={i}>{item}</div>)
+                    }
+                  </div>
                 </li>
               )
             }
