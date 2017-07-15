@@ -1,7 +1,7 @@
 
 	export default [
 	{
-		"title":"web ppt","categories":"工具","tags":" 杨雷，2017-7-15","path":"/web ppt","createTime":"2017-7-15","component":()=>System.import('article/web ppt.md')
+		"title":"web ppt","categories":"工具","tags":" 杨雷,2017-7-15","path":"/web ppt","createTime":"2017-7-15","component":()=>System.import('article/web ppt.md')
 
 	},
 	{

@@ -2,48 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f561e5-e863-463e-ac49-7eccfa8548ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/web ppt.md" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/bottom.d5edbcf9.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/me.f60d5268.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/mine.985b0b0f.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/top.cdbe3775.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.bbbf5ded328ccf00e047.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.bbbf5ded328ccf00e047.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/0.f3a9b349565fad9aae70.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/1.5ae2e116c61554ce4d54.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/10.6fe7da12fc3cd8230810.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/11.4ad842a6ccc12e532151.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/12.2e01b083183899cdd1a9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/13.0cbef27643de73d19210.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/14.50d5aa7c4fdb4f4b1b1d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/15.f23f5921da29b0e71dda.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/16.e05e6afc4538978eb6da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/17.0120f93853758ad46459.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/18.d4739e54e861ccf5a8e1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/19.caa2b29c5cbe606de56a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/2.dbbf273bd2c98f60c25d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/20.f828811138dafc540664.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/21.878e4a0f138cd1fbd339.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/22.6c010a42699606591fe5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/23.8abfcd24792c31fb852d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/24.32291d764b2c79b7f3a3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/25.5e2db03410e3017cf834.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/26.1672a8c0393b7634e21e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/27.ae855ac8d66e2cba9227.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/28.2a7efbecdf6d336e2644.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/3.75ede410724adb9aef69.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/5.beae27c463e0c6c37f16.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/6.160ab82c627076cd669d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/7.7c50b819d09aaadbffb3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/8.3fa31b42550f48e20319.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/9.35da076b138e07ce089a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/index.bbbf5ded328ccf00e047.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.954e538a2fa167a6f2d6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.954e538a2fa167a6f2d6.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/0.065a661c0b9cdee3f6eb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/1.cdae1b3ce8cf729ce6e1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/2.d9d2f805cf41c95e7c95.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/3.eaf345102aa5feb4eeb2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/index.954e538a2fa167a6f2d6.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/web ppt.md" afterPath="$PROJECT_DIR$/article/web ppt.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/cdnResource.ini" afterPath="$PROJECT_DIR$/dist/cdnResource.ini" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/cdnResource.json" afterPath="$PROJECT_DIR$/dist/cdnResource.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/article.js" afterPath="$PROJECT_DIR$/src/data/article.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack/getAllArticle.js" afterPath="$PROJECT_DIR$/webpack/getAllArticle.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,21 +33,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Intent.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/a/Intent.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cp：DrawableAnimation.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/article/a/cp：DrawableAnimation.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -135,17 +95,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web ppt.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="web ppt.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/article/web ppt.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="151">
-                <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="41" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor>
                 <js_state />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/git/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-541">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -207,7 +177,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>babel/fe-present</find>
       <find>f</find>
       <find>fa</find>
       <find>fav</find>
@@ -237,6 +206,7 @@
       <find>createTime</find>
       <find>result</find>
       <find>ppt</find>
+      <find>github</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -322,8 +292,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="-1007" />
+    <option name="x" value="204" />
+    <option name="y" value="-971" />
     <option name="width" value="1708" />
     <option name="height" value="825" />
   </component>
@@ -659,7 +629,7 @@
       <workItem from="1500041066164" duration="18439000" />
       <workItem from="1500101948684" duration="313000" />
       <workItem from="1500102849344" duration="2005000" />
-      <workItem from="1500124646285" duration="1448000" />
+      <workItem from="1500124646285" duration="2338000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1499092087227</created>
@@ -728,7 +698,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110414000" />
+    <option name="totallyTimeSpent" value="111304000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -740,7 +710,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="-1007" width="1708" height="825" extended-state="0" />
+    <frame x="204" y="-971" width="1708" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15352698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -824,13 +794,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/me.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1299,13 +1262,21 @@
     <entry file="file://$PROJECT_DIR$/article/web ppt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="151">
-            <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="41" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/git/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-541">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
