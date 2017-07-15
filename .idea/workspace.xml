@@ -6,52 +6,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/me.f60d5268.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/mine.985b0b0f.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/top.cdbe3775.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.9d2cf738bb3218cda0c4.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.9d2cf738bb3218cda0c4.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/0.da76e58642abb568e258.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/1.e6a7f70c9a16ed1220f9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/10.518b447e6cde9f2a90ad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/11.ea6cc6b9c06d07ee3335.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/12.2f6a5df3c495479e4f19.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/13.d9e79bceb4ba867ecc9d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/14.50d5aa7c4fdb4f4b1b1d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/15.4d496bedf69fc11c7c3d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/16.e05e6afc4538978eb6da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/17.6c913fddeeabe4463095.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/18.141eefafc0b47c0dc990.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/19.cf329d5613963a6e2655.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/2.3320865f4a5febb7df13.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/20.3b52b86b437fddfe871a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/22.a2daed00fa9394573f59.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/24.6c3677b47f54191caa4c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/25.2f48fe7f17c4b768c4d6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/26.1672a8c0393b7634e21e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/27.ae855ac8d66e2cba9227.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/28.2a7efbecdf6d336e2644.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/3.62b2fe02f2702bf6a7e2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/6.9b45ce6c8bc1fb1f73fd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/7.a75ed9fe01ae55c92ad7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/8.2ee5dfa827edfe46bd8c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/9.f67f663ccfe4d1cac558.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/index.9d2cf738bb3218cda0c4.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/Java 面向对象多态性.md" afterPath="$PROJECT_DIR$/article/Java 面向对象多态性.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/Java.io： IO与文件.md" afterPath="$PROJECT_DIR$/article/Java.io： IO与文件.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/README.md" afterPath="$PROJECT_DIR$/article/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/java 虚拟机体系结构.md" afterPath="$PROJECT_DIR$/article/java 虚拟机体系结构.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/javascriptByzhiqiang.md" afterPath="$PROJECT_DIR$/article/javascriptByzhiqiang.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/编辑阅读器.md" afterPath="$PROJECT_DIR$/article/编辑阅读器.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/cdnResource.ini" afterPath="$PROJECT_DIR$/dist/cdnResource.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/cdnResource.json" afterPath="$PROJECT_DIR$/dist/cdnResource.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/article.js" afterPath="$PROJECT_DIR$/src/data/article.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/head.js" afterPath="$PROJECT_DIR$/src/pages/head.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/list.js" afterPath="$PROJECT_DIR$/src/pages/list.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes.js" afterPath="$PROJECT_DIR$/src/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/common.styl" afterPath="$PROJECT_DIR$/src/styles/common.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/index.fba3b9fb0b066bdac8cb.css" afterPath="$PROJECT_DIR$/dist/css/index.fba3b9fb0b066bdac8cb.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/list.styl" afterPath="$PROJECT_DIR$/src/styles/list.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack/getAllArticle.js" afterPath="$PROJECT_DIR$/webpack/getAllArticle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack/loader/markdown-loader/index.js" afterPath="$PROJECT_DIR$/webpack/loader/markdown-loader/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -103,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/styles/index.styl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="5" selection-end-column="42" />
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="5" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -127,22 +84,22 @@
             <state relative-caret-position="-213">
               <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="50" />
               <folding>
-                <marker date="1500098201000" expanded="true" signature="1115:1262" ph="{&quot;title&quot;: &quot;README&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="1265:1436" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="1439:1583" ph="{&quot;title&quot;: &quot;Fragment&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="1586:1724" ph="{&quot;title&quot;: &quot;Intent&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="1727:1883" ph="{&quot;title&quot;: &quot;Java 面向对象多态性&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="1886:2053" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="2056:2209" ph="{&quot;title&quot;: &quot;PWA library&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="2212:2350" ph="{&quot;title&quot;: &quot;README&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="2353:2554" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="2557:2713" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="2716:2896" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="2899:3034" ph="{&quot;title&quot;: &quot;编辑阅读器&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="3037:3234" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="3237:3404" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="3407:3604" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
-                <marker date="1500098201000" expanded="true" signature="3607:3884" ph="{&quot;title&quot;: &quot;translate&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="1115:1262" ph="{&quot;title&quot;: &quot;README&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="1265:1436" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="1439:1583" ph="{&quot;title&quot;: &quot;Fragment&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="1586:1724" ph="{&quot;title&quot;: &quot;Intent&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="1727:1883" ph="{&quot;title&quot;: &quot;Java 面向对象多态性&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="1886:2053" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="2056:2209" ph="{&quot;title&quot;: &quot;PWA library&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="2212:2350" ph="{&quot;title&quot;: &quot;README&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="2353:2554" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="2557:2713" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="2716:2896" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="2899:3034" ph="{&quot;title&quot;: &quot;编辑阅读器&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="3037:3234" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="3237:3404" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="3407:3604" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
+                <marker date="1500099519000" expanded="true" signature="3607:3884" ph="{&quot;title&quot;: &quot;translate&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -175,8 +132,8 @@
       <file leaf-file-name="list.styl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/styles/list.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            <state relative-caret-position="393">
+              <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -216,7 +173,7 @@
         <entry file="file://$PROJECT_DIR$/src/pages/head.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="362">
-              <caret line="53" column="49" lean-forward="true" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+              <caret line="53" column="49" lean-forward="false" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -337,10 +294,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="-1000" />
-    <option name="width" value="1678" />
-    <option name="height" value="960" />
+    <option name="x" value="12" />
+    <option name="y" value="173" />
+    <option name="width" value="1684" />
+    <option name="height" value="662" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -685,7 +642,7 @@
       <workItem from="1499994332117" duration="1205000" />
       <workItem from="1500000875761" duration="616000" />
       <workItem from="1500034938525" duration="3536000" />
-      <workItem from="1500041066164" duration="16393000" />
+      <workItem from="1500041066164" duration="18293000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1499092087227</created>
@@ -754,7 +711,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104602000" />
+    <option name="totallyTimeSpent" value="106502000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -766,10 +723,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="-1000" width="1678" height="960" extended-state="0" />
+    <frame x="12" y="173" width="1684" height="662" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18105009" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18039687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3787234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -777,7 +734,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34751773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32718894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49824563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -988,7 +945,7 @@
         <state relative-caret-position="92">
           <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
-            <marker date="1500001294000" expanded="true" signature="658:682" ph="..." />
+            <marker date="1500098998000" expanded="true" signature="658:682" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1200,7 +1157,7 @@
     <entry file="file://$PROJECT_DIR$/src/pages/head.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
-          <caret line="53" column="49" lean-forward="true" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+          <caret line="53" column="49" lean-forward="false" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -1230,22 +1187,22 @@
         <state relative-caret-position="-213">
           <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="50" />
           <folding>
-            <marker date="1500098201000" expanded="true" signature="1115:1262" ph="{&quot;title&quot;: &quot;README&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="1265:1436" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="1439:1583" ph="{&quot;title&quot;: &quot;Fragment&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="1586:1724" ph="{&quot;title&quot;: &quot;Intent&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="1727:1883" ph="{&quot;title&quot;: &quot;Java 面向对象多态性&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="1886:2053" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="2056:2209" ph="{&quot;title&quot;: &quot;PWA library&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="2212:2350" ph="{&quot;title&quot;: &quot;README&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="2353:2554" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="2557:2713" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="2716:2896" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="2899:3034" ph="{&quot;title&quot;: &quot;编辑阅读器&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="3037:3234" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="3237:3404" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="3407:3604" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
-            <marker date="1500098201000" expanded="true" signature="3607:3884" ph="{&quot;title&quot;: &quot;translate&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="1115:1262" ph="{&quot;title&quot;: &quot;README&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="1265:1436" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="1439:1583" ph="{&quot;title&quot;: &quot;Fragment&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="1586:1724" ph="{&quot;title&quot;: &quot;Intent&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="1727:1883" ph="{&quot;title&quot;: &quot;Java 面向对象多态性&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="1886:2053" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="2056:2209" ph="{&quot;title&quot;: &quot;PWA library&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="2212:2350" ph="{&quot;title&quot;: &quot;README&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="2353:2554" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="2557:2713" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="2716:2896" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="2899:3034" ph="{&quot;title&quot;: &quot;编辑阅读器&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="3037:3234" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="3237:3404" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="3407:3604" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
+            <marker date="1500099519000" expanded="true" signature="3607:3884" ph="{&quot;title&quot;: &quot;translate&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -1253,7 +1210,7 @@
     <entry file="file://$PROJECT_DIR$/src/styles/index.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="5" selection-end-column="42" />
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="5" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -1302,6 +1259,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/list.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1310,14 +1275,6 @@
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#85#119#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/list.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
