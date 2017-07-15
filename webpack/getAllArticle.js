@@ -51,7 +51,7 @@ const getAllMarkdownFile = function(filePath){
 
     const defaultDate = new Date()
     const createTimeStr = content.split('\n').find(str =>{
-        if(str.indexOf('createTime_yl') >=0){
+        if(str.indexOf('creatTime_yl') >=0){
           return true
         }
         return false
@@ -90,7 +90,7 @@ const getAllMarkdownFile = function(filePath){
    * 按照时间从大到小排序
    */
   return result.sort((a1,a2) =>{
-    return a2.createTime - a1.createTime
+    return new Date(a2.createTime) - new Date(a1.createTime)
   })
 }
 
