@@ -30,15 +30,12 @@ export default class Head extends Page {
   render () {
     let categories = []
     let categoriesMap = {}
-
     articles.forEach(item => {
       if(item.categories && !categoriesMap[item.categories]) {
         categoriesMap[item.categories] = 1
         categories.push(item.categories)
       }
     })
-
-
     return (
       <div style={{height: '265px', position: 'relative'}}>
         <div className="top">

@@ -19,7 +19,6 @@ module.exports = function(content,map) {
 	converter.setOption('tables', true)
 	content   = converter.makeHtml(content)
 
-
 	// this.value = content;
 	/*
 	import React,{Component} from 'react'

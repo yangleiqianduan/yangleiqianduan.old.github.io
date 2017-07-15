@@ -18,6 +18,14 @@ export default class Index extends Page {
   componentWillMount() {
     localStorage.setItem('index', this.state.i)
   }
+  componentWillReceiveProps(nextProps) {
+    if(nextProps.params.path != this.state.path) {
+      localStorage.setItem('index', this.state.i)
+      setTimeout(() =>{
+        this.setState({i: nextProps.params.path})
+      }, 0)
+    }
+  }
   render () {
     return (
     <div className="root">
@@ -28,18 +36,11 @@ export default class Index extends Page {
             this.state.i == this.props.params.path ?
               <AsyncComponent comFn={articles[this.state.i].component()}/> : null
           }
-
         </div>
-        <a className="last" onClick={() => {
-          this.setState({i: this.state.i == 0 ? this.state.last : this.state.i - 1})
-          localStorage.setItem('index', this.state.i == 0 ? this.state.last : this.state.i - 1)
-        }}
-           href={`#article/${this.state.i}`}>上一篇</a>
-        <a className="next" onClick={() => {
-          this.setState({i: this.state.i == this.state.last ? 0 : this.state.i + 1})
-          localStorage.setItem('index', this.state.i == this.state.last ? 0 : this.state.i + 1)
-        }}
-           href={`#article/${this.state.i}`}>下一篇</a>
+        <a className="last"
+           href={`#article/${this.state.i == 0 ? this.state.last : +this.state.i - 1}`}>上一篇</a>
+        <a className="next"
+           href={`#article/${this.state.i == this.state.last ? 0 : +this.state.i + 1}`}>下一篇</a>
       </div>
       <Foot/>
     </div>

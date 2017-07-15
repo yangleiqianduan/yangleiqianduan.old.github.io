@@ -17,12 +17,10 @@ export default class Index extends Page {
           <div className="index">
             <div>GOOD GOOD STUDY, </div>
             <div>DAY DAY UP</div>
-
           </div>
           <div className="welcome">
             杨雷 ♥︎ 小小前端
           </div>
-
         </div>
         <Foot/>
       </div>

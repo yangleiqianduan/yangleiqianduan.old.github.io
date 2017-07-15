@@ -17,48 +17,40 @@ export default class Index extends Page {
       this.setState({categories: nextProps.params.categories || ''})
     }
   }
+  renderList(articlesLine) {
+    return  articlesLine.map((articles, i) =>
+      <ul key={i}>
+        {
+          articles.map((article, index) =>
+            <li key={index}
+                style={{background: `rgba(${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)}, 0.3)`}}>
+              <a href={`#article/${index}`}>
+                {article.title}
+              </a>
+              <div className="tags">
+                {
+                  article.tags.split(',').map((item, i) => <div className="tagsName" key={i}>{item}</div>)
+                }
+              </div>
+            </li>
+          )
+        }
+      </ul>
+    )
+  }
 
   render () {
     let articleslist = this.state.categories != 0 ? articles.filter(i => i.categories == this.state.categories) : articles
-    let articles1 = articleslist.filter((i, index) => 2*index <= articleslist.length)
-    let articles2 = articleslist.filter((i, index) => 2*index > articleslist.length)
+    let articlesTop = articleslist.filter((i, index) => 2*index <= articleslist.length)
+    let articlesBottom = articleslist.filter((i, index) => 2*index > articleslist.length)
     return (
     <div className="root">
       <Head index={1} categories={this.state.categories}/>
       <div className="content">
         <div className="list">
-          <ul>
-            {
-              articles1.map((article,index) =>
-                  <li key={index} style={{background: `rgba(${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)}, 0.3)`}}>
-                    <a href={`#article/${index}`}>
-                      {article.title}
-                    </a>
-                    <div className="tags">
-                      {
-                        article.tags.split(',').map((item, i) => <div className="tagsName" key={i}>{item}</div>)
-                      }
-                    </div>
-                  </li>
-              )
-            }
-          </ul>
-          <ul>
-            {
-              articles2.map((article,index) =>
-                <li key={index} style={{background: `rgba(${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)}, ${Math.floor(Math.random()*255)}, 0.3)`}}>
-                  <a href={`#article/${index}`}>
-                    {article.title}
-                  </a>
-                  <div className="tags">
-                    {
-                      article.tags.split(',').map((item, i) => <div className="tagsName" key={i}>{item}</div>)
-                    }
-                  </div>
-                </li>
-              )
-            }
-          </ul>
+          {
+            this.renderList([articlesTop, articlesBottom])
+          }
         </div>
       </div>
       <Foot/>
