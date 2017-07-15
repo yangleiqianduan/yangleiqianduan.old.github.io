@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f561e5-e863-463e-ac49-7eccfa8548ca" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/bottom.d5edbcf9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/me.f60d5268.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/mine.985b0b0f.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/top.cdbe3775.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/DrawableAnimation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/Fragment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/Intent.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/Java 面向对象多态性.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/Java.io： IO与文件.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/PWA library.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/element of javascript style.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/java 虚拟机体系结构.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/javascriptByzhiqiang.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/编辑阅读器.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/index.fba3b9fb0b066bdac8cb.css" afterPath="$PROJECT_DIR$/dist/css/index.fba3b9fb0b066bdac8cb.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/list.styl" afterPath="$PROJECT_DIR$/src/styles/list.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/CSS_Variables/index.md" afterPath="$PROJECT_DIR$/article/CSS_Variables/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/DrawableAnimation.md" afterPath="$PROJECT_DIR$/article/DrawableAnimation.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/yes-react-is-taking-over-front-end-development-the-question-is-why/translate.md" afterPath="$PROJECT_DIR$/article/yes-react-is-taking-over-front-end-development-the-question-is-why/translate.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/article.js" afterPath="$PROJECT_DIR$/src/data/article.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,38 +29,60 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/pages/index.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="115">
-                    <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-                    <folding>
-                      <element signature="n#!!doc" expanded="true" />
-                      <element signature="e#85#119#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="common.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles/common.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
+            <state relative-caret-position="1748">
               <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/article/CSS_Variables/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="23">
+                <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="translate.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/article/yes-react-is-taking-over-front-end-development-the-question-is-why/translate.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawableAnimation.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/article/DrawableAnimation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="138">
+                <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -69,7 +100,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpack/loader/markdown-loader/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-44">
+            <state relative-caret-position="92">
               <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding>
                 <marker date="1500049228000" expanded="true" signature="1054:1119" ph="..." />
@@ -81,38 +112,9 @@
       <file leaf-file-name="article.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data/article.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-213">
-              <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="50" />
-              <folding>
-                <marker date="1500099519000" expanded="true" signature="1115:1262" ph="{&quot;title&quot;: &quot;README&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="1265:1436" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="1439:1583" ph="{&quot;title&quot;: &quot;Fragment&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="1586:1724" ph="{&quot;title&quot;: &quot;Intent&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="1727:1883" ph="{&quot;title&quot;: &quot;Java 面向对象多态性&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="1886:2053" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="2056:2209" ph="{&quot;title&quot;: &quot;PWA library&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="2212:2350" ph="{&quot;title&quot;: &quot;README&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="2353:2554" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="2557:2713" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="2716:2896" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="2899:3034" ph="{&quot;title&quot;: &quot;编辑阅读器&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="3037:3234" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="3237:3404" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="3407:3604" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
-                <marker date="1500099519000" expanded="true" signature="3607:3884" ph="{&quot;title&quot;: &quot;translate&quot;...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getAllArticle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webpack/getAllArticle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="78" column="25" lean-forward="false" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="25" />
-              <folding>
-                <marker date="1500090227000" expanded="true" signature="420:525" ph="{...}" />
-              </folding>
+            <state relative-caret-position="69">
+              <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -120,7 +122,7 @@
       <file leaf-file-name="list.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="690">
               <caret line="38" column="105" lean-forward="false" selection-start-line="38" selection-start-column="105" selection-end-line="38" selection-end-column="105" />
               <folding>
                 <element signature="e#84#119#0" expanded="true" />
@@ -129,27 +131,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.styl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles/list.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
+            <state relative-caret-position="782">
               <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="69">
-                <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
             </state>
           </provider>
         </entry>
@@ -165,16 +152,6 @@
               <second_editor>
                 <js_state />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/head.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="53" column="49" lean-forward="false" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -273,6 +250,9 @@
         <option value="$PROJECT_DIR$/article/README.md" />
         <option value="$PROJECT_DIR$/src/pages/list.js" />
         <option value="$PROJECT_DIR$/src/styles/list.styl" />
+        <option value="$PROJECT_DIR$/article/CSS_Variables/index.md" />
+        <option value="$PROJECT_DIR$/article/yes-react-is-taking-over-front-end-development-the-question-is-why/translate.md" />
+        <option value="$PROJECT_DIR$/article/DrawableAnimation.md" />
       </list>
     </option>
   </component>
@@ -294,10 +274,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
-    <option name="y" value="173" />
-    <option name="width" value="1684" />
-    <option name="height" value="662" />
+    <option name="x" value="-102" />
+    <option name="y" value="-958" />
+    <option name="width" value="1708" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -315,6 +295,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -459,7 +440,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yes-react-is-taking-over-front-end-development-the-question-is-why" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -484,7 +519,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -642,7 +676,9 @@
       <workItem from="1499994332117" duration="1205000" />
       <workItem from="1500000875761" duration="616000" />
       <workItem from="1500034938525" duration="3536000" />
-      <workItem from="1500041066164" duration="18293000" />
+      <workItem from="1500041066164" duration="18439000" />
+      <workItem from="1500101948684" duration="313000" />
+      <workItem from="1500102849344" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1499092087227</created>
@@ -711,7 +747,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106502000" />
+    <option name="totallyTimeSpent" value="107204000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -723,18 +759,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="173" width="1684" height="662" extended-state="0" />
+    <frame x="-102" y="-958" width="1708" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18039687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17783047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3787234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34751773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49824563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49824563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -742,6 +777,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3787234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -799,7 +835,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/pages/index.js</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -889,18 +924,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/article/a/element of javascript style.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/article/a/element of javascript style.md" />
     <entry file="file://$PROJECT_DIR$/article/b/element of javascript style.md" />
     <entry file="file://$PROJECT_DIR$/src/pages/foots.js" />
     <entry file="file://$PROJECT_DIR$/src/styles/normalize.css">
@@ -928,7 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
           <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -944,9 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <marker date="1500098998000" expanded="true" signature="658:682" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -957,50 +977,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/article/a/DrawableAnimation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/article/a/DrawableAnimation.md" />
     <entry file="file://$PROJECT_DIR$/src/pages/about.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <marker date="1499994464000" expanded="false" signature="0:83" ph="/** === page === ...*/" />
-            <marker date="1499994464000" expanded="true" signature="92:206" ph="..." />
-            <marker date="1499994464000" expanded="true" signature="247:790" ph="{...}" />
-            <marker date="1499994464000" expanded="true" signature="260:788" ph="{...}" />
-            <marker date="1499994464000" expanded="true" signature="281:778" ph="&lt;div/&gt;" />
-            <marker date="1499994464000" expanded="true" signature="338:765" ph="&lt;div/&gt;" />
-            <marker date="1499994464000" expanded="true" signature="374:750" ph="&lt;div/&gt;" />
-            <marker date="1499994464000" expanded="true" signature="409:501" ph="&lt;div/&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/article/PWA library.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/article/DrawableAnimation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -1052,19 +1037,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/article/yes-react-is-taking-over-front-end-development-the-question-is-why/translate.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="97">
-            <caret line="333" column="24" lean-forward="false" selection-start-line="333" selection-start-column="24" selection-end-line="333" selection-end-column="24" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/article/编辑阅读器.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1104,19 +1076,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/article/CSS_Variables/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/article/java 虚拟机体系结构.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1134,7 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-686">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1142,7 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1150,21 +1107,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/head.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
+        <state relative-caret-position="1196">
           <caret line="53" column="49" lean-forward="false" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack/getAllArticle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
+        <state relative-caret-position="1794">
           <caret line="78" column="25" lean-forward="false" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="25" />
           <folding>
             <marker date="1500090227000" expanded="true" signature="420:525" ph="{...}" />
@@ -1174,7 +1129,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack/loader/markdown-loader/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
+        <state relative-caret-position="92">
           <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding>
             <marker date="1500049228000" expanded="true" signature="1054:1119" ph="..." />
@@ -1184,26 +1139,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data/article.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-213">
-          <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="50" />
-          <folding>
-            <marker date="1500099519000" expanded="true" signature="1115:1262" ph="{&quot;title&quot;: &quot;README&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="1265:1436" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="1439:1583" ph="{&quot;title&quot;: &quot;Fragment&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="1586:1724" ph="{&quot;title&quot;: &quot;Intent&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="1727:1883" ph="{&quot;title&quot;: &quot;Java 面向对象多态性&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="1886:2053" ph="{&quot;title&quot;: &quot;DrawableAnimation&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="2056:2209" ph="{&quot;title&quot;: &quot;PWA library&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="2212:2350" ph="{&quot;title&quot;: &quot;README&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="2353:2554" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="2557:2713" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="2716:2896" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="2899:3034" ph="{&quot;title&quot;: &quot;编辑阅读器&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="3037:3234" ph="{&quot;title&quot;: &quot;element of javascript style&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="3237:3404" ph="{&quot;title&quot;: &quot;java 虚拟机体系结构&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="3407:3604" ph="{&quot;title&quot;: &quot;javascriptByzhiqiang&quot;...}" />
-            <marker date="1500099519000" expanded="true" signature="3607:3884" ph="{&quot;title&quot;: &quot;translate&quot;...}" />
-          </folding>
+        <state relative-caret-position="69">
+          <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,27 +1150,6 @@
         <state relative-caret-position="92">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="5" selection-end-column="42" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/common.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/article/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
         </state>
       </provider>
     </entry>
@@ -1251,7 +1168,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="690">
           <caret line="38" column="105" lean-forward="false" selection-start-line="38" selection-start-column="105" selection-end-line="38" selection-end-column="105" />
           <folding>
             <element signature="e#84#119#0" expanded="true" />
@@ -1261,9 +1178,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/list.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="782">
           <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/common.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/CSS_Variables/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
@@ -1275,6 +1213,45 @@
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#85#119#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/yes-react-is-taking-over-front-end-development-the-question-is-why/translate.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/DrawableAnimation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
