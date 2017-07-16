@@ -1,4 +1,6 @@
 const showdown = require('showdown')
+var path = require('path')
+var fs =   require('fs')
 // var babel = require("babel-core");
 module.exports = function(content,map) {
 
@@ -18,6 +20,9 @@ module.exports = function(content,map) {
 	const converter = new showdown.Converter()
 	converter.setOption('tables', true)
 	content   = converter.makeHtml(content)
+
+  //2. code html
+  content = content.replace(/(&lt;)/g, '<span><</span>').replace(/(&gt;)/g, '>')
 
 	// this.value = content;
 	/*
