@@ -50,10 +50,10 @@ const getAllMarkdownFile = function(filePath){
     }).toString()
 
 
-    const start = content.indexOf("---");
-    const end = content.indexOf("---", start+3) + 3;
+    let start = content.indexOf("---") + 3
+    let end = content.indexOf("---", start);
     let info = {}
-    content.substring(start + 3 , end - 3).split('\n').forEach(item => {
+    content.substring(start, end).split('\n').forEach(item => {
       if(item.trim()) {
         let obj = item.split(':')
         info[obj[0].trim()] = obj[1].trim();
@@ -63,11 +63,25 @@ const getAllMarkdownFile = function(filePath){
       return false
     }
     const filePath = file.replace(ARTICLE_PATH,'')
+
+    let startImg = content.indexOf("![](") + 4;
+    let img = []
+    if(startImg > 5) {
+      let endImg = content.indexOf(")", startImg);
+      img.push(content.substring(startImg, endImg));
+      let substartImg = content.indexOf("![](", endImg + 1) + 4;
+      if(substartImg > endImg + 5) {
+        let subendImg = content.indexOf(")", substartImg);
+        img.push(content.substring(substartImg, subendImg));
+      }
+    }
+
     return {
       title: info.title,
       categories:  info.categories,
       tags: info.tags,
       path:filePath.replace('.md',''),
+      img: img,
       creatTime: info.creatTime
     }
   })

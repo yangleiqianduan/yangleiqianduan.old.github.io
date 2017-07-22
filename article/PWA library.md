@@ -24,12 +24,9 @@ creatTime: 1483936830009
 
 像推特这种大型网站，最近利用Service Worker[将他们全部移动端流量导至PWA中](https://twitter.com/necolas/status/829128165314306048?lang=en)，App Shell 模型 和 PRPL 模式也显示出了相似的优势：
 
-![alt](https://cdn-images-1.medium.com/max/2000/1*yuhXsK8dh7RNS-oQylhhnQ.png)
 
 这不是一个仅仅应用于移动端和PWA的优化。Service Worker 也可以提高桌面站点加载性能。
 比如，Flipkart缓存他们的静态文件所以在重复的访问首屏时内容加载比第一次快了1.5秒：
-
-![alt](https://cdn-images-1.medium.com/max/2000/1*S5_WIvU0pB9xVFjHjaeRZQ.png)
 
 Flipkart.com在桌面中使用sw-precache缓存静态文件以减少多次重复加载的时间
 

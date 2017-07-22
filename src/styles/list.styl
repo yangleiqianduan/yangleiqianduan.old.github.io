@@ -7,6 +7,32 @@
   overflow-x auto
   margin-bottom -40px
   margin-top 50px
+  .imgBox
+    position: absolute;
+    top: 98px;
+    right: 0;
+    width: 100%;
+    height: 80px;
+    display flex
+    img
+      overflow hidden
+      box-shadow: 1px 6px 10px rgba(0,0,0,0.1);
+      border: 2px solid rgba(255,255,255,0.3);
+      border-radius: 50%;
+      margin: auto;
+  .oneImg
+    width: 110px;
+    height: 70px;
+  .twoImg1
+    width: 70px;
+    height: 60px;
+    position: relative;
+    left: 25px;
+  .twoImg0
+    width: 70px;
+    height: 60px;
+    position: relative;
+    left: -25px;
   ul
     display flex
     li
@@ -27,6 +53,8 @@
         text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
         color: rgba(229, 229, 229, 0.83);
       a
+        position relative
+        z-index 200
         white-space nowrap
         display block
         height 200px
@@ -35,3 +63,5 @@
         font-size 20px
         &:hover
           font-size 25px
+      .hasImg
+        line-height  115px

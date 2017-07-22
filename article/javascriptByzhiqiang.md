@@ -45,6 +45,10 @@ typeof '123' === 'string'
   由于JavaScript只有双精度浮点数字类型（不像Java那样区分整型和浮点型），对于JavaScript来说，`1.0 === 1` 是为true的。在JavaScript内部使用IEEE754格式来存储数值，但是这种格式无法准确的用二进制来表示某些十进制小数，这样就带来了小数运算时的精度问题。
   由于一般情况下我们不需要那么高的精读，所以我们可以通过四舍五入的方式来实现我们想要的结果。比如把上面的结果四舍五入保留一位小数后就会变成我们想要的`0.8`了。
 
+![](https://www.zybuluo.com/static/img/logo.png)
+
+![](http://techbrood.com/ueditor/php/upload/image/20160525/1464141326848754.png)
+
 #### 四舍五入的问题
   那一般我们用什么做四舍五入呢？有人会想到原生的`toFixed`方法，这里我们可以看一下从知乎中一个问题的[讨论](https://www.zhihu.com/question/37639441)：
 

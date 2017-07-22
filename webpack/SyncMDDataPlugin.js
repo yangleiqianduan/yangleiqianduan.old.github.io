@@ -34,8 +34,8 @@ function articleToCode(article){
 
   return `
 	{
-		${result.join(',')}
-
+		${result.join(`,
+		`)}
 	}`
 }
 function getFileContent(fileList){

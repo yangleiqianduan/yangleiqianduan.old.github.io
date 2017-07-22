@@ -24,9 +24,16 @@ export default class Index extends Page {
           articles.map((article, index) =>
             <li key={index}
                 style={{background: `rgba(${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)}, 0.3)`}}>
-              <a href={`#article/${article.creatTime}`}>
+              <a href={`#article/${article.creatTime}`} className={article.img.length ? 'hasImg': ''}>
                 {article.title}
               </a>
+              {
+                article.img.map((item, i) => <div key={i} className="imgBox">
+                  <img className={article.img.length == 1 ? 'oneImg': `twoImg${i}`}
+                    src={item}/>
+                  </div>
+                )
+              }
               <div className="tags">
                 {
                   article.tags.split(',').map((item, i) => <div className="tagsName" key={i}>{item}</div>)
