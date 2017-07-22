@@ -26,7 +26,7 @@ export default class Index extends Page {
     }
   }
   render () {
-    let art = articles.find(item => item.creatTime == this.state.id)
+    let art = articles.find(item => item.creatTime == this.state.id) || articles[0]
     return (
     <div className="root">
       <Head index={2}/>
@@ -38,9 +38,13 @@ export default class Index extends Page {
           }
         </div>
         <a className="before"
-           href={`#article/${art.before}`}>上一篇</a>
+           href={`#article/${art.before}`}>上一篇
+          <span>{art.beforename}</span>
+        </a>
         <a className="next"
-           href={`#article/${art.next}`}>下一篇</a>
+           href={`#article/${art.next}`}>下一篇
+          <span>{art.nextname}</span>
+        </a>
       </div>
       <Foot/>
     </div>

@@ -79,8 +79,12 @@ const getAllMarkdownFile = function(filePath){
     return a2.creatTime - a1.creatTime
   })
   resultList.forEach((item, i) => {
-    item.next = resultList[(i + 1) % resultList.length].creatTime
-    item.before = resultList[(i + resultList.length - 1) % resultList.length].creatTime
+     let next =  resultList[(i + 1) % resultList.length]
+    item.next = next.creatTime
+    item.nextname = next.title
+    let before = resultList[(i + resultList.length - 1) % resultList.length]
+    item.before = before.creatTime
+    item.beforename = before.title
   })
   return resultList
 }
