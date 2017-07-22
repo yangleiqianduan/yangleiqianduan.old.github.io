@@ -1,9 +1,10 @@
 ---
-title_yl: Java.io： IO与文件
-categories_yl: 文章
-tags_yl: 哈哈
-creatTime_yl: 2017-7-14
+title: 占位文章7
+categories: 占位
+tags: 占位
+creatTime: 1483936830007
 ---
+
 
 #`Java.io： IO与文件`
 1. java.io.File 类的使用

@@ -1,8 +1,8 @@
 ---
-title_yl: WebSlides
-categories_yl: 工具
-tags_yl: 杨雷,2017-7-15
-creatTime_yl: 2017-7-15
+title: WebSlides
+categories: 工具
+tags: 杨雷,2017-7-15
+creatTime: 1500048000000
 ---
 
 # WebSlides = Create stories with Karma

@@ -5,7 +5,6 @@
   "scripts": {
     "start": "ENVIRONMENT=development redskull start --dashboard false",
     "test": "ENVIRONMENT=testing redskull build",
-    "build": "ENVIRONMENT=production redskull build --publicPath ./dist/"
   },
   "license": "ISC",
   "dependencies": {

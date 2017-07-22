@@ -49,48 +49,34 @@ const getAllMarkdownFile = function(filePath){
       charset:'utf-8'
     }).toString()
 
-    const defaultDate = new Date()
-    const createTimeStr = content.split('\n').find(str =>{
-        if(str.indexOf('creatTime_yl') >=0){
-          return true
-        }
-        return false
-      }) || ``
-    // }) || `:${defaultDate.toLocaleDateString()} ${defaultDate.toLocaleTimeString()}`
 
-    const createTimeArr = createTimeStr.split(':')
-    createTimeArr.shift()
-    const createTime = createTimeArr.join(":").trim()
-    const fileName = path.basename(file,'.md')
-    const filePath = file.replace(ARTICLE_PATH,'')
-
-    const categoriesStr = (content.split('\n').find(str =>{
-        if(str.indexOf('categories_yl') >=0){
-          return true
-        }
-        return false
-      }) || ":").split(':')[1].trim()
-
-    const tagStr = (content.split('\n').find(str =>{
-      if(str.indexOf('tags_yl') >=0){
-        return true
+    const start = content.indexOf("---");
+    const end = content.indexOf("---", start+3) + 3;
+    let info = {}
+    content.substring(start + 3 , end - 3).split('\n').forEach(item => {
+      if(item.trim()) {
+        let obj = item.split(':')
+        info[obj[0].trim()] = obj[1].trim();
       }
+    })
+    if(info.categories == 'EDIT') {
       return false
-    }) || ":").split(':')[1]
+    }
+    const filePath = file.replace(ARTICLE_PATH,'')
     return {
-      title:fileName,
-      categories: categoriesStr,
-      tags: tagStr,
+      title: info.title,
+      categories:  info.categories,
+      tags: info.tags,
       path:filePath.replace('.md',''),
-      createTime
+      createTime: info.creatTime
     }
   })
 
   /**
    * 按照时间从大到小排序
    */
-  return result.sort((a1,a2) =>{
-    return new Date(a2.createTime) - new Date(a1.createTime)
+  return result.filter(i => i).sort((a1,a2) =>{
+    return a2.createTime - a1.createTime
   })
 }
 

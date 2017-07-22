@@ -1,8 +1,8 @@
 ---
-title_yl: react
-categories_yl: 工具
-tags_yl: md
-creatTime_yl: 2017-7-14
+title: 占位文章占位文章2
+categories: 占位
+tags: 占位
+creatTime: 1483936830002
 ---
 
 # JAVASCRIPT 写作指南

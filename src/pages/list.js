@@ -41,8 +41,8 @@ export default class Index extends Page {
 
   render () {
     let articleslist = this.state.categories != 0 ? articles.filter(i => i.categories == this.state.categories) : articles
-    let articlesTop = articleslist.filter((i, index) => 2*index <= articleslist.length)
-    let articlesBottom = articleslist.filter((i, index) => 2*index > articleslist.length)
+    let articlesTop = articleslist.filter((i, index) => index %2)
+    let articlesBottom = articleslist.filter((i, index) => !(index %2))
     return (
     <div className="root">
       <Head index={1} categories={this.state.categories}/>

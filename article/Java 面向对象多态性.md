@@ -1,9 +1,10 @@
 ---
-title_yl: Java 面向对象多态性
-categories_yl: javaScript
-tags_yl: JavaScript
-creatTime_yl: 2017-7-14
+title: 占位文章6
+categories: 占位
+tags: 占位
+creatTime: 1483936830006
 ---
+
 
 多态性的体现：
 

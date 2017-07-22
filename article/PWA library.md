@@ -1,9 +1,10 @@
 ---
-title_yl: react
-categories_yl: react
-tags_yl: 大黄蜂
-creatTime_yl: 2017-7-14
+title: 占位9
+categories: 占位
+tags: 占位
+creatTime: 1483936830009
 ---
+
 
 两年前，我们团队在 Google 开始尝试使用 JavaScript 库来降低构建渐进式 Web应用模型的阻力。我们一开始使用像 sw-precache 和 sw-toolbox 一类的 [Service Worker](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers "Service Worker") 工具，如今有数以千计的团队在移动站点的生产环境中使用这些工具来支持离线缓存和用户访问即时加载。
 

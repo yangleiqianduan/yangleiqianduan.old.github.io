@@ -1,9 +1,10 @@
 ---
-title_yl: JavaScript基础1
-categories_yl: javaScript
-tags_yl: JavaScript
-creatTime_yl: 2017-7-14
+title: 占文章8
+categories: 占位
+tags: 占位
+creatTime: 1483936830008
 ---
+
 
 本文主要讲述了JavaScript语言中基本知识和概念以及平时工作时遇到的一些问题。
 
