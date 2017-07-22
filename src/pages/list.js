@@ -24,7 +24,7 @@ export default class Index extends Page {
           articles.map((article, index) =>
             <li key={index}
                 style={{background: `rgba(${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)}, 0.3)`}}>
-              <a href={`#article/${index}`}>
+              <a href={`#article/${article.creatTime}`}>
                 {article.title}
               </a>
               <div className="tags">
@@ -41,8 +41,8 @@ export default class Index extends Page {
 
   render () {
     let articleslist = this.state.categories != 0 ? articles.filter(i => i.categories == this.state.categories) : articles
-    let articlesTop = articleslist.filter((i, index) => index %2)
-    let articlesBottom = articleslist.filter((i, index) => !(index %2))
+    let articlesTop = articleslist.filter((i, index) => !(index %2))
+    let articlesBottom = articleslist.filter((i, index) => index %2)
     return (
     <div className="root">
       <Head index={1} categories={this.state.categories}/>

@@ -68,16 +68,21 @@ const getAllMarkdownFile = function(filePath){
       categories:  info.categories,
       tags: info.tags,
       path:filePath.replace('.md',''),
-      createTime: info.creatTime
+      creatTime: info.creatTime
     }
   })
 
   /**
    * 按照时间从大到小排序
    */
-  return result.filter(i => i).sort((a1,a2) =>{
-    return a2.createTime - a1.createTime
+   let resultList = result.filter(i => i).sort((a1,a2) =>{
+    return a2.creatTime - a1.creatTime
   })
+  resultList.forEach((item, i) => {
+    item.next = resultList[(i + 1) % resultList.length].creatTime
+    item.before = resultList[(i + resultList.length - 1) % resultList.length].creatTime
+  })
+  return resultList
 }
 
 

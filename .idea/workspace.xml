@@ -2,89 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f561e5-e863-463e-ac49-7eccfa8548ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/20170721.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/CSS_Variables/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/Intent.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/PWA library.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/cp：DrawableAnimation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/cp：Fragment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/cp：Java.io文件.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/cp：element of javascript.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/hah.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/javascriptBy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/编辑阅读器.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/虚拟机体系结构.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/a/面向对象多态性.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/11.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/5.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/6.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/7.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/img/untitled" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/yes-react-is-taking-over-front-end-development-the-question-is-why/translate.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/three/01.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/cdnResource.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/cdnResource.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/bottom.d5edbcf9.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/me.f60d5268.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/mine.985b0b0f.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/top.cdbe3775.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.c81646b037c30e5dfba6.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.c81646b037c30e5dfba6.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/0.3d978c4e85cfeb440eb6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/1.4b7ad6cd3108f3ae3901.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/10.87c201213cd652718a1e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/11.a73fffd065c5b2618186.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/12.97677e1b6eb57a25a982.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/13.fecf3a8470de24b98b20.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/14.7689e5c32a22c0c6b1d3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/15.ef5ad158627c5826dce6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/16.e4f0d3e2c490d70dc882.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/17.5da6a78f305c5c254539.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/18.305110474ab6c06a823b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/19.9ee0642098d1d45c1c37.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/2.878c7314ec27c209451b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/20.16f0037074ba8dba215a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/21.3351052a24d89dd45f77.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/22.0e153256fc894571d2a8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/23.339c608f7bca7a6eacf2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/24.12cab3dd21151676b26f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/25.3ea286a382ef91e53a32.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/26.4c0c0704412d577d70c0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/27.3dcc5d390d7c0ae97dad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/28.d97f329e2bd28e44dcd0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/29.9d176fd2a9f5cd45f6f6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/3.6908fa8ba5ba49bad039.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/5.9875b9a49dbaef2e1795.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/6.31352a76114f490b5b6d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/7.fd93747042ee969a52b9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/8.432d248826633f5a45ea.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/9.47a1eb65667dc0f0bf16.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/index.c81646b037c30e5dfba6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.e3c7c243c449d4a60d49.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.e3c7c243c449d4a60d49.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/bottom.d5edbcf9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/me.f60d5268.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/mine.985b0b0f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/top.cdbe3775.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/0.65f54d884d143d30d9c4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/1.e360d4026c7cfb2c372a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/10.c38cb28538e6825b1cba.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/11.15074a991e6d1e724b02.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/12.1129d3ee6232a8aca442.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/13.70f3dd17b6b581e9c587.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/14.4e4b057f46784238f68f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/15.8a14011c2b2c4a5efdb2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/16.8c3349ef73fcc3564d5f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/2.5b02b887a9d60d18b677.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/3.188a3dc84061c35eab5e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/4.4e1aa370fa88196b45ad.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/5.d289fbe2c78b616bce00.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/6.a5ad1b7c80ba17c5ebfd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/7.25a7b9a62e5530a173a8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/8.eacb93e1073c7ff1f060.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/9.29bd2247d27452fab538.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/index.e3c7c243c449d4a60d49.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/b.sh" afterPath="$PROJECT_DIR$/online.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/DrawableAnimation.md" afterPath="$PROJECT_DIR$/article/DrawableAnimation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/Fragment.md" afterPath="$PROJECT_DIR$/article/Fragment.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/Intent.md" afterPath="$PROJECT_DIR$/article/Intent.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/Java 面向对象多态性.md" afterPath="$PROJECT_DIR$/article/Java 面向对象多态性.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/Java.io： IO与文件.md" afterPath="$PROJECT_DIR$/article/Java.io： IO与文件.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/PWA library.md" afterPath="$PROJECT_DIR$/article/PWA library.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/README.md" afterPath="$PROJECT_DIR$/article/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/element of javascript style.md" afterPath="$PROJECT_DIR$/article/element of javascript style.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/java 虚拟机体系结构.md" afterPath="$PROJECT_DIR$/article/java 虚拟机体系结构.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/javascriptByzhiqiang.md" afterPath="$PROJECT_DIR$/article/javascriptByzhiqiang.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/web ppt.md" afterPath="$PROJECT_DIR$/article/web ppt.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/编辑阅读器.md" afterPath="$PROJECT_DIR$/article/编辑阅读器.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/cdnResource.ini" afterPath="$PROJECT_DIR$/dist/cdnResource.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/cdnResource.json" afterPath="$PROJECT_DIR$/dist/cdnResource.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/online.sh" afterPath="$PROJECT_DIR$/online.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/article.js" afterPath="$PROJECT_DIR$/src/data/article.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/article.js" afterPath="$PROJECT_DIR$/src/pages/article.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/list.js" afterPath="$PROJECT_DIR$/src/pages/list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/article.styl" afterPath="$PROJECT_DIR$/src/styles/article.styl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack/getAllArticle.js" afterPath="$PROJECT_DIR$/webpack/getAllArticle.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -100,97 +57,48 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PWA library.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/PWA library.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="23">
-                <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DrawableAnimation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/DrawableAnimation.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="javascriptByzhiqiang.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/javascriptByzhiqiang.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="23">
-                <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Java.io： IO与文件.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/Java.io： IO与文件.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack/loader/markdown-loader/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="-593">
+              <caret line="24" column="79" lean-forward="false" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+              <folding>
+                <marker date="1500206099000" expanded="true" signature="1204:1269" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack/config.common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Java 面向对象多态性.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/Java 面向对象多态性.md">
+      <file leaf-file-name="article.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/article.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+              <folding>
+                <element signature="e#85#119#0" expanded="true" />
+                <marker date="1500711924000" expanded="true" signature="338:1288" ph="{...}" />
+                <marker date="1500711924000" expanded="true" signature="724:1286" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/article/three/01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <first_editor relative-caret-position="184">
+                <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -200,47 +108,66 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="java 虚拟机体系结构.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/java 虚拟机体系结构.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="138">
-                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
+      <file leaf-file-name="article.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/styles/article.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="element of javascript style.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/element of javascript style.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="23">
-                <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
+      <file leaf-file-name="SyncMDDataPlugin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack/SyncMDDataPlugin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="62" column="39" lean-forward="false" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="23">
-                <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
+      <file leaf-file-name="getAllArticle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack/getAllArticle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="82" column="34" lean-forward="false" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+              <folding>
+                <marker date="1500711407000" expanded="true" signature="190:2040" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/head.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/article.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <marker date="1500711996000" expanded="true" signature="2752:2819" ph="{&quot;title&quot;: &quot;占位文章1&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -300,8 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/webpack/define.config.js" />
         <option value="$PROJECT_DIR$/webpack/SyncMDDataPlugin.js" />
         <option value="$PROJECT_DIR$/src/modules/ArticleRender/index.js" />
         <option value="$PROJECT_DIR$/src/modules/ArticleRender/markdown.styl" />
@@ -329,10 +254,8 @@
         <option value="$PROJECT_DIR$/webpack/config.dev.js" />
         <option value="$PROJECT_DIR$/src/data/articleaaaa.js" />
         <option value="$PROJECT_DIR$/src/modules/AsyncComponent/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/article.js" />
         <option value="$PROJECT_DIR$/webpack/loader/markdown-loader/index.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/styles/article.styl" />
         <option value="$PROJECT_DIR$/online.sh" />
         <option value="$PROJECT_DIR$/article/20170721.md" />
         <option value="$PROJECT_DIR$/article/Fragment.md" />
@@ -342,8 +265,6 @@
         <option value="$PROJECT_DIR$/article/编辑阅读器.md" />
         <option value="$PROJECT_DIR$/article/web ppt.md" />
         <option value="$PROJECT_DIR$/src/data/article.js" />
-        <option value="$PROJECT_DIR$/webpack/getAllArticle.js" />
-        <option value="$PROJECT_DIR$/src/pages/list.js" />
         <option value="$PROJECT_DIR$/article/element of javascript style.md" />
         <option value="$PROJECT_DIR$/article/README.md" />
         <option value="$PROJECT_DIR$/article/PWA library.md" />
@@ -351,6 +272,12 @@
         <option value="$PROJECT_DIR$/article/java 虚拟机体系结构.md" />
         <option value="$PROJECT_DIR$/article/DrawableAnimation.md" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/b.sh" />
+        <option value="$PROJECT_DIR$/article/three/01.md" />
+        <option value="$PROJECT_DIR$/webpack/getAllArticle.js" />
+        <option value="$PROJECT_DIR$/src/styles/article.styl" />
+        <option value="$PROJECT_DIR$/src/pages/list.js" />
+        <option value="$PROJECT_DIR$/src/pages/article.js" />
       </list>
     </option>
   </component>
@@ -372,9 +299,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="95" />
+    <option name="x" value="-9" />
     <option name="y" value="22" />
-    <option name="width" value="1440" />
+    <option name="width" value="1045" />
     <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -600,6 +527,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangleiqianduan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="three" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -616,19 +561,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/article/three" />
+      <recent name="$PROJECT_DIR$/article" />
+      <recent name="$PROJECT_DIR$/a" />
+      <recent name="$PROJECT_DIR$/article/a" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/article" />
       <recent name="$PROJECT_DIR$/src/styles" />
       <recent name="$PROJECT_DIR$/src/" />
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/webpack" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/article" />
-      <recent name="$PROJECT_DIR$/a" />
-      <recent name="$PROJECT_DIR$/article/a" />
-      <recent name="$PROJECT_DIR$/src/pages" />
-      <recent name="$PROJECT_DIR$/b" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -768,7 +713,7 @@
       <workItem from="1500428728941" duration="23000" />
       <workItem from="1500559092760" duration="617000" />
       <workItem from="1500602681392" duration="214000" />
-      <workItem from="1500693494540" duration="7299000" />
+      <workItem from="1500693494540" duration="10757000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1499092087227</created>
@@ -837,7 +782,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140728000" />
+    <option name="totallyTimeSpent" value="144186000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -849,17 +794,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="95" y="22" width="1440" height="824" extended-state="0" />
+    <frame x="-9" y="22" width="1045" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19168429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27185792" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36065573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3101093" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -926,13 +871,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/index.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -1094,13 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/head.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/about.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1144,48 +1075,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/highlight.js/README.md" />
     <entry file="file://$PROJECT_DIR$/node_modules/highlight/README.md" />
-    <entry file="file://$PROJECT_DIR$/src/pages/article.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#85#119#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/config.common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/config.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/article.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/online.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/article/Fragment.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1212,37 +1101,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/SyncMDDataPlugin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="71" column="8" lean-forward="false" selection-start-line="69" selection-start-column="6" selection-end-line="71" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/loader/markdown-loader/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="24" column="79" lean-forward="false" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
-          <folding>
-            <marker date="1500206099000" expanded="true" signature="1204:1269" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/article/web ppt.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/article/20170721.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1253,48 +1111,6 @@
           <second_editor>
             <js_state />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/article/编辑阅读器.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/article.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <marker date="1500707441000" expanded="true" signature="17:2035" ph="[...]" />
-            <marker date="1500707441000" expanded="true" signature="346:363" ph="{&quot;title&quot;: &quot;占位文章13&quot;...}" />
-            <marker date="1500707441000" expanded="true" signature="1683:1862" ph="{&quot;title&quot;: &quot;占位文章2&quot;...}" />
-            <marker date="1500707441000" expanded="true" signature="1865:2034" ph="{&quot;title&quot;: &quot;占位文章1&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/getAllArticle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="44" column="71" lean-forward="false" selection-start-line="44" selection-start-column="71" selection-end-line="44" selection-end-column="71" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1363,24 +1179,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/article/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/article/PWA library.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <first_editor relative-caret-position="92">
+            <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1402,11 +1213,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/article/PWA library.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1415,11 +1226,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/online.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/web ppt.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2172">
+            <caret line="115" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/编辑阅读器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="598">
+            <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/config.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/loader/markdown-loader/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <caret line="24" column="79" lean-forward="false" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+          <folding>
+            <marker date="1500206099000" expanded="true" signature="1204:1269" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/SyncMDDataPlugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="62" column="39" lean-forward="false" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/article.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/getAllArticle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="82" column="34" lean-forward="false" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+          <folding>
+            <marker date="1500711407000" expanded="true" signature="190:2040" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/head.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/article.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <marker date="1500711996000" expanded="true" signature="2752:2819" ph="{&quot;title&quot;: &quot;占位文章1&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/article.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="e#85#119#0" expanded="true" />
+            <marker date="1500711924000" expanded="true" signature="338:1288" ph="{...}" />
+            <marker date="1500711924000" expanded="true" signature="724:1286" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/three/01.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
