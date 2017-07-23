@@ -10,29 +10,37 @@ import Foot from './foot.js'
 import '../styles/list.styl'
 export default class Index extends Page {
   state = {
-    categories: this.props.params.categories || ''
+    categories: this.props.params.categories || '',
+    index: ''
   }
   componentWillReceiveProps(nextProps) {
     if(nextProps.params.categories != this.state.categories) {
       this.setState({categories: nextProps.params.categories || ''})
     }
   }
+  mouse = (index) => {
+    this.setState({
+      index: index
+    })
+  }
   renderList(articlesLine) {
-    return  articlesLine.map((articles, i) =>
-      <ul key={i}>
+    return  articlesLine.map((articles, j) =>
+      <ul key={j}>
         {
           articles.map((article, index) =>
-            <li key={index}
+            <li key={index} onMouseEnter={() => this.mouse(`${j}${index}`)}
                 style={{background: `rgba(${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)}, 0.3)`}}>
-              <a href={`#article/${article.creatTime}`} className={article.img.length ? 'hasImg': ''}>
+              <a href={`#article/${article.creatTime}`} className={article.img.length && this.state.index == `${j}${index}` ? 'hasImg': ''}>
                 {article.title}
               </a>
               {
-                article.img.map((item, i) => <div key={i} className="imgBox">
-                  <img className={article.img.length == 1 ? 'oneImg': `twoImg${i}`}
-                    src={item}/>
-                  </div>
-                )
+                this.state.index == `${j}${index}`?
+                  article.img.map((item, i) => <div key={i} className="imgBox">
+                    <img className={article.img.length == 1 ? 'oneImg': `twoImg${i}`}
+                      src={item}/>
+                    </div>
+                  )
+                  : article.img.map((item, i) => <img key={i} style={{display: 'none'}} src={item}/>)
               }
               <div className="tags">
                 {
