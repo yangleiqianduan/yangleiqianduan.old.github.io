@@ -41,7 +41,7 @@ export default class Head extends Page {
         <div className="top">
           <div className="topImg"/>
         </div>
-        <div className="img"/>
+        <a className="img" href="./html/show.html"/>
         <nav className="nav">
           {
             this.state.link.map((item,index) =>

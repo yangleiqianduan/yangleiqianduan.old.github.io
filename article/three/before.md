@@ -1,6 +1,6 @@
 ---
-title: Three.js（一） -- 入门介绍
-categories: 笔记
+title: Three.js（一） -- 序言
+categories: EDIT
 tags: three.js
 creatTime: 1500707828819
 ---
@@ -60,9 +60,9 @@ document.body.appendChild( renderer.domElement );
 上面的都是准备工作，电影布景都好了，演员还没进场。接下来我们添加“演员”（3D立方体）。
 
 ```js
-var geometry = new THREE.BoxGeometry( 1, 1, 1 ); // 几何对象
-var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } ); // 材质
-var cube = new THREE.Mesh( geometry, material ); // 网格对象
+var geometry = new THREE.BoxGeometry( 1, 1, 1 );
+var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+var cube = new THREE.Mesh( geometry, material );
 scene.add( cube );
 camera.position.z = 5;
 ```
@@ -110,4 +110,4 @@ cube.rotation.y += 0.1;
 ----
 
 > - 可以用这个库哈  wow.techbrood.com/libs/three.r73.js  没错就是**o**
-> - [原文链接](http://techbrood.com/threejs/docs/) http://techbrood.com/threejs/docs/
+> - [原文链接](http://techbrood.com/threejs/docs/)
