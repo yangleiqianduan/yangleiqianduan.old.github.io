@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f561e5-e863-463e-ac49-7eccfa8548ca" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/cdnResource.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/cdnResource.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/bottom.d5edbcf9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/me.f60d5268.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/mine.985b0b0f.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/dist/img/top.cdbe3775.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.cbb46ac47ad5e9c64051.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/index.cbb46ac47ad5e9c64051.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/html/css.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/html/show.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/bottom.d5edbcf9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/me.f60d5268.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/mine.985b0b0f.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/img/top.cdbe3775.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/0.09e272d1509480e85464.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/1.5b8bf070f925188e834d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/10.202b623016c5005417b9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/11.7d8d5fea470f41071a7d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/12.15ba22965414ea12a4fc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/13.4f2b2108b3bfb5a06753.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/14.899b2117ec2ea3fba07d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/15.c468676b81ac6f893dff.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/16.30a2352d9a6f79735587.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/17.30bbcc2e44f688e0ae6a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/18.20405d1a53230ec0fa5a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/19.9b759dc5e97bf8a5c8a1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/2.1320ee2298a95cc0dbed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/20.331c1759d4cc4a5f9211.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/3.04c40535416925e33ae2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/4.4e1aa370fa88196b45ad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/5.b063d69736cfc116b16c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/6.f5ccd4305d86ec5ad3f7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/7.092e7edb3d9e2a94624c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/8.e52a49704eaaf9072513.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/9.c62d27cc3926d3e2fcd5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/index.cbb46ac47ad5e9c64051.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/online.sh" afterPath="$PROJECT_DIR$/online.sh" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -126,8 +87,8 @@
       <file leaf-file-name="show.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/show.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1051">
-              <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+            <state relative-caret-position="-31093">
+              <caret line="384" column="40" lean-forward="false" selection-start-line="384" selection-start-column="40" selection-end-line="384" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -609,7 +570,7 @@
       <workItem from="1501806352623" duration="662000" />
       <workItem from="1501821300648" duration="2660000" />
       <workItem from="1502072410552" duration="253000" />
-      <workItem from="1502356526167" duration="2452000" />
+      <workItem from="1502356526167" duration="3714000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1499092087227</created>
@@ -678,7 +639,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180555000" />
+    <option name="totallyTimeSpent" value="181817000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -691,7 +652,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-1020" width="1080" height="1920" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04910293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1213,8 +1173,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/show.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1051">
-          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        <state relative-caret-position="-31093">
+          <caret line="384" column="40" lean-forward="false" selection-start-line="384" selection-start-column="40" selection-end-line="384" selection-end-column="40" />
           <folding />
         </state>
       </provider>

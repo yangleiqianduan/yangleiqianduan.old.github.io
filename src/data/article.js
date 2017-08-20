@@ -1,58 +1,6 @@
 
 	export default [
 	{
-		"title":"Three.js（三） -- WebGL Matrix4（4*4矩阵库）",
-		"categories":"笔记",
-		"tags":"three.js",
-		"path":"/three/03",
-		"img":[],
-		"creatTime":"1501399356649",
-		"next":"1501399356649",
-		"nextname":"Three.js（四） -- 核心对象",
-		"before":"1483936830000",
-		"beforename":"占1",
-		"component":()=>System.import('article/three/03.md')
-	},
-	{
-		"title":"Three.js（四） -- 核心对象",
-		"categories":"笔记",
-		"tags":"three.js",
-		"path":"/three/04",
-		"img":["./04-guanxi.png"],
-		"creatTime":"1501399356649",
-		"next":"1500901744668",
-		"nextname":"Three.js（二） -- 这里是🌰🌰",
-		"before":"1501399356649",
-		"beforename":"Three.js（三） -- WebGL Matrix4（4*4矩阵库）",
-		"component":()=>System.import('article/three/04.md')
-	},
-	{
-		"title":"Three.js（二） -- 这里是🌰🌰",
-		"categories":"笔记",
-		"tags":"three.js",
-		"path":"/three/02",
-		"img":[],
-		"creatTime":"1500901744668",
-		"next":"1500707828819",
-		"nextname":"Three.js（一） -- 入门介绍",
-		"before":"1501399356649",
-		"beforename":"Three.js（四） -- 核心对象",
-		"component":()=>System.import('article/three/02.md')
-	},
-	{
-		"title":"Three.js（一） -- 入门介绍",
-		"categories":"笔记",
-		"tags":"three.js",
-		"path":"/three/01",
-		"img":["http://techbrood.com/ueditor/php/upload/image/20160525/1464141326848754.png"],
-		"creatTime":"1500707828819",
-		"next":"1500048000000",
-		"nextname":"WebSlides",
-		"before":"1500901744668",
-		"beforename":"Three.js（二） -- 这里是🌰🌰",
-		"component":()=>System.import('article/three/01.md')
-	},
-	{
 		"title":"WebSlides",
 		"categories":"工具",
 		"tags":"杨雷,2017-7-15",
@@ -61,8 +9,8 @@
 		"creatTime":"1500048000000",
 		"next":"1499961600000",
 		"nextname":"编辑阅读器",
-		"before":"1500707828819",
-		"beforename":"Three.js（一） -- 入门介绍",
+		"before":"1483936830000",
+		"beforename":"占1",
 		"component":()=>System.import('article/web ppt.md')
 	},
 	{
@@ -202,8 +150,8 @@
 		"path":"/DrawableAnimation",
 		"img":[],
 		"creatTime":"1483936830000",
-		"next":"1501399356649",
-		"nextname":"Three.js（三） -- WebGL Matrix4（4*4矩阵库）",
+		"next":"1500048000000",
+		"nextname":"WebSlides",
 		"before":"1483936830002",
 		"beforename":"占位文章占位文章2",
 		"component":()=>System.import('article/DrawableAnimation.md')
